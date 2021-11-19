@@ -1,3 +1,72 @@
+/* @import (less) "~antd/dist/antd.css"; */
+@import "~antd/dist/antd";
+/* @import "~antd/dist/antd.less"; */
+/* @import "~antd/lib/style/themes/default.less"; */
+/* @import "~node_modules/antd/lib/style/themes/default.less"; */
+
+/* node_modules\antd\lib\style\themes */
+
+/* @import "~antd/dist/antd.less";
+@import "~antd/lib/style/themes/default.less"; */
+
+/* E:\Edu\antd-demo\node_modules\antd\lib\style\themes */
+
+/* .ant-btn.custom-btn {
+  height: 64px;
+} */
+
+/* .ant-btn.custom-btn {
+   height: @height-lg;
+ } */
+/* @height-lg */
+
+.new-line {
+  white-space: pre-line;
+}
+
+.span1 {
+  font-family: Roboto, sans-serif;
+  font-size: 40px;
+}
+
+.span2 {
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+.span3 {
+  font-family: Roboto;
+  font-size: 40px;
+}
+/* @font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+  'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+  'Noto Color Emoji'; */
+
+.span4 {
+  font-family: -apple-system;
+  font-size: 40px;
+}
+.span5 {
+  font-family: BlinkMacSystemFont;
+  font-size: 40px;
+}
+.span6 {
+  font-family: "Segoe UI";
+  font-size: 40px;
+}
+.span7 {
+  font-family: "Apple Color Emoji";
+  font-size: 40px;
+}
+.span8 {
+  font-family: "Segoe UI Symbol";
+  font-size: 40px;
+}
+.span9 {
+  font-family: "Segoe UI Emoji";
+  font-size: 40px;
+}
+
 .App {
   text-align: center;
 }
